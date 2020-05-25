@@ -1,0 +1,30 @@
+{
+    
+    "params":
+    {
+"local-server":"True",
+"local_uri":"mysql://root:@localhost/thecodingthunderflask",
+"prod_uri":"mysql://root:@localhost/thecodingthunderflask",
+"fb_url":"https://facebook.com/thecodingthunderflask",
+"tw_url":"https://twitter.com/thecodingthunderflask",
+"gh_url":"https://github.com/thecodingthunderflask",
+"blog_name":"Reliance blog",
+"tab_line":"A Blog liked by jio users",
+"gmail-user":"ysoni9919@gmail.com",
+"gmail-password":"y@sh0686",
+"no_of_posts" : 2,
+"login_image":"login.jpg",
+"admin_username":"akash",
+"admin_password":"soni",
+"upload_location": "C:\\Users\\akash\\Desktop\\python3.8\\python-flask\\image come to submit dashboard"
+
+
+
+    }
+
+
+
+
+
+
+}
